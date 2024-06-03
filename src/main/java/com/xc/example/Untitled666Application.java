@@ -10,7 +10,7 @@ import java.io.IOException;
 public class Untitled666Application {
     public static void main(String[] args) {
         SpringApplication.run(Untitled666Application.class, args);
-        openBrowser("http://localhost:8080/admin/web/crud");
+        openBrowser("http://localhost:8082/admin/web/crud");
     }
 
     /**
